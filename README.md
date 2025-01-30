@@ -1,14 +1,14 @@
-# 👋 Hi, I am Oluwasegun Nicholas
-# 👀 I’m a Frontend Developer.
+# 👋 Hello, I am Oluwasegun Ahmed
+# 👀 I’m an AWS Cloud Practitioner, and a Frontend Developer.
 
 # My Skills
 
 # [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwindcss,javascript,react)](https://skills.thijs.gg)
 # [![My Skills](https://skills.thijs.gg/icons?i=git,nodejs)](https://skills.thijs.gg)
 
-# 🌱 I recently got certified by Zuri and Ingressive4Good.
+# 🌱 I recently got certified by Amazon Web Services.
 
-# 💞️ I’m looking to collaborate on projects, here are my stats...
+# 💞️ I’m looking to collaborate on hands-on AWS lab experiences, here are my stats...
 
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Admiralng&show_icons=true&theme=radical)
 
