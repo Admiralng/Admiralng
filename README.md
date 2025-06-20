@@ -6,9 +6,9 @@
 # [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwindcss,javascript,react)](https://skills.thijs.gg)
 # [![My Skills](https://skills.thijs.gg/icons?i=git,nodejs)](https://skills.thijs.gg)
 
-# 🌱 I recently got certified by Amazon Web Services.
+# 🌱 I got certified by Amazon Web Services as a Solutions Architect.
 
-# 💞️ I’m looking to collaborate on hands-on AWS lab experiences, here are my stats...
+# 💞️ I’m looking to collaborate on hands-on AWS Cloud architecture design experiences, here are my stats...
 
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Admiralng&show_icons=true&theme=radical)
 
